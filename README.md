@@ -1,3 +1,3 @@
 # Python-Text-Based-Black-Jack-Game
-Basic text based black jack game for python. Can access using online python interpitor for devices like chromebooks on repl.it
+Basic text based Black Jack game for python. You can download or access online using repl.it python interpitor for devices like chromebooks.
 Credit: Me repl.it/@ColbzDaBoss1
